@@ -1,0 +1,16 @@
+{
+  "name": "au-chat-studio",
+  "version": "2.0.0",
+  "private": true,
+  "description": "WhatsApp-style AU chat screenshot generator with group profiles, local media uploads and OpenAI via Vercel Functions.",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "devDependencies": {
+    "vercel": "latest"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}

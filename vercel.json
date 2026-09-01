@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "cleanUrls": true,
+  "functions": {
+    "api/ai.js": {
+      "maxDuration": 60
+    }
+  }
+}
